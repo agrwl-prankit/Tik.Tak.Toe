@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tik Tak Toe</string>
+    <string name="someone_has_won">Someone has won</string>
+    <string name="todo">TODO</string>
+    <string name="textview">TextView</string>
+    <string name="play_again">Play Again</string>
+    <string name="reset">RESET</string>
+    <string name="x_player_1">X : Player 1</string>
+    <string name="o_player_2">O : Player 2</string>
+</resources>
